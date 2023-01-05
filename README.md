@@ -44,9 +44,9 @@ Here are some ideas to get you started:
   
 
 <!-- Github Stats + Streaks -->
-  <img src = "https://activity-graph.herokuapp.com/graph?username=sagar201&theme=react-dark&hide_border=true&area=true" width = 800>
-  <img src = "https://github-readme-stats.vercel.app/api?username=201&show_icons=true&theme=dark&hide_border=true" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=sagar201&theme=dark&hide_border=true" width = 400>
+  <img src = "https://activity-graph.herokuapp.com/graph?username=sagar201201&theme=react-dark&hide_border=true&area=true" width = 800>
+  <img src = "https://github-readme-stats.vercel.app/api?username=201201&show_icons=true&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=sagar201201&theme=dark&hide_border=true" width = 400>
   
 </p>
 
